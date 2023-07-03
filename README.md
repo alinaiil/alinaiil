@@ -1,7 +1,7 @@
 ### Hello! 🕊
 
 - 👩🏻 My name is Alina, I am 20 y.o.
-- 🏫 I'm studying at [ITMO University](https://itmo.ru/) (2nd year)
+- 🏫 Second year [ITMO University](https://itmo.ru/)
 - 💻 My major is Informational Systems and Technologies
 
 
